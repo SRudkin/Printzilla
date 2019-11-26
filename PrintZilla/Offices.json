@@ -1,0 +1,158 @@
+
+[
+    {
+        "office_name": "SFO",
+        "floors": [
+            {
+                "name": "1",
+                "printers": [
+                    { "name" : "SFO1-Stockton", "ip" : "10.251.24.193"},
+                    { "name" : "SFO1-Lombard", "ip" : "10.251.24.195"},
+                ]
+            },
+            {
+                "name": "2",
+                "printers": [
+                    { "name" : "SFO2-Market", "ip" : "10.251.24.197"},
+                ]
+            },
+            {
+                "name": "3",
+                "printers": [
+                    { "name" : "SFO3-Howard", "ip" : "10.251.24.196"},
+                ]
+            },
+            {
+                "name": "7",
+                "printers": [
+                    { "name" : "SFO7-Spears", "ip" : "10.251.24.192"},
+                    { "name" : "SFO7-Folsom", "ip" : "10.251.24.194"},
+                ]
+            }
+        ]
+    },
+    {
+        "office_name": "BER",
+        "floors": [
+            
+            {
+                "name": "3",
+                "printers": [
+                    { "name" : "BER3-Doppelganger", "ip" : "10.238.24.253"},
+                ]
+            },
+            
+            {
+                "name": "4",
+                "printers": [
+                    { "name" : "BER4-Aliceblue", "ip" : "10.238.25.219"},
+                    
+                ]
+            },
+            
+         
+            {
+                "name": "6",
+                "printers": [
+                    { "name" : "BER6-Zeitgeist", "ip" : "10.238.29.155"},
+                   
+                ]
+            }
+        ]
+    },
+    {
+        "office_name": "MTV",
+        "floors": [
+            {
+                "name": "1",
+                "printers": [
+                    { "name" : "MTV1-Sharks", "ip" : "10.252.31.3"},
+                    { "name" : "MTV1-Giants", "ip" : "10.252.31.4"},
+                    { "name" : "MTV1-Earthquakes", "ip" : "10.252.31.6"},
+                ]
+            },
+            {
+                "name": "2",
+                "printers": [
+                    { "name" : "MTV2-Warriors", "ip" : "10.252.31.1"},
+                    { "name" : "MTV2-Raiders", "ip" : "10.252.31.5"},
+                ]
+            }
+        ]
+    },
+    {
+        "office_name": "PDX",
+        "floors": [
+            {
+                "name": "3",
+                "printers": [
+                    { "name" : "PDX3-Wilderness", "ip" : "10.248.24.191"},
+                    { "name" : "PDX3-Frontier", "ip" : "10.248.24.192"},
+                ]
+            }
+        ]
+    },
+    {
+        "office_name": "TPE",
+        "floors": [
+            {
+                "name": "4",
+                "printers": [
+                    { "name" : "TPE4-Rainbow", "ip" : "10.247.24.201"},
+                ]
+            },
+            {
+                "name": "5",
+                "printers": [
+                    { "name" : "TPE5-Coffee", "ip" : "10.247.24.202"},
+                ]
+            }
+        ]
+    },
+    {
+        "office_name": "YVR",
+        "floors": [
+            {
+                "name": "2",
+                "printers": [
+                    { "name" : "YVR2-West", "ip" : "10.244.24.193"},
+                    { "name" : "YVR2-East", "ip" : "10.244.24.192"},
+                ]
+            }
+        ]
+    },
+    {
+        "office_name": "LON",
+        "floors": [
+            {
+                "name": "4",
+                "printers": [
+                    { "name" : "LON4-Rubbish", "ip" : "10.239.24.184"},
+                ]
+            }
+        ]
+    },
+    {
+        "office_name": "TOR",
+        "floors": [
+            {
+                "name": "5",
+                "printers": [
+                    { "name" : "TOR5-MADCat", "ip" : "10.242.24.196"},
+                ]
+            }
+        ]
+    },
+    {
+        "office_name": "PAR",
+        "floors": [
+            {
+                "name": "1",
+                "printers": [
+                    { "name" : "PAR1-Kouign-Amann", "ip" : "10.243.24.196"},
+                ]
+            }
+        ]
+    }
+]
+
